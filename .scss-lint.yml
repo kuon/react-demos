@@ -1,0 +1,19 @@
+linters:
+
+  Indentation:
+    width: 2
+  PropertySortOrder:
+    enabled: false
+  LeadingZero:
+    enabled: false
+  ColorVariable:
+    enabled: false
+  NestingDepth:
+    max_depth: 4
+  StringQuotes:
+    enabled: true
+    style: double_quotes
+  SingleLinePerSelector:
+    enabled: false
+  QualifyingElement:
+    enabled: false

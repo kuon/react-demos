@@ -1,0 +1,15 @@
+body {
+  background: #eee;
+  color: #222;
+  font-family: Helvetica, Arial, sans-serif;
+  user-select: none;
+  transition: color 1s;
+}
+
+.main {
+  max-width: 960px;
+  margin: auto;
+  user-select: none;
+  transition: color 1s;
+  font-smoothing: antialiased;
+}
